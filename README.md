@@ -6,6 +6,9 @@ Collect small tips learned every day as a programmer.
 * HTML&CSS
     * css disable mouse event on DOM element: https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
 
+* NICHES
+    * C++11 is formal named C++0x: https://stackoverflow.com/questions/9538701/what-is-the-difference-between-c0x-and-c11
+
 ## Rule of tips
 
 1. Link with one line description
