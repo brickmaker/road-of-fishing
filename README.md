@@ -8,8 +8,14 @@ Collect small tips learned every day as a programmer.
 * GLSL
     * Loop statement in GLSL not support dynamic value directly: http://learnwebgl.brown37.net/12_shader_language/glsl_control_structures.html#iteration
 
-* WSL
-    * windows-wsl git使用问题: https://github.com/brickmaker/road-of-fishing/blob/master/articles/wsl-git.md
+* tools
+    * WSL
+        * windows-wsl git使用问题: https://github.com/brickmaker/road-of-fishing/blob/master/articles/wsl-git.md
+    * 软件源
+        * ubuntu软件源：https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/
+        * pypi源：https://mirror.tuna.tsinghua.edu.cn/help/pypi/
+        * npm源：https://github.com/8788/blog/issues/7
+
 
 * NICHES
     * C++11 is formal named C++0x: https://stackoverflow.com/questions/9538701/what-is-the-difference-between-c0x-and-c11
