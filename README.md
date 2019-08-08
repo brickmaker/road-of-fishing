@@ -8,6 +8,9 @@ Collect small tips learned every day as a programmer.
 * GLSL
     * Loop statement in GLSL not support dynamic value directly: http://learnwebgl.brown37.net/12_shader_language/glsl_control_structures.html#iteration
 
+* WSL
+    * WSL python3 配置： https://github.com/brickmaker/road-of-fishing/blob/master/articles/wsl-python.md
+
 * tools
     * WSL
         * windows-wsl git使用问题: https://github.com/brickmaker/road-of-fishing/blob/master/articles/wsl-git.md
