@@ -9,7 +9,7 @@ Collect small tips learned every day as a programmer.
     * Loop statement in GLSL not support dynamic value directly: http://learnwebgl.brown37.net/12_shader_language/glsl_control_structures.html#iteration
 
 * WSL
-    * windows-wsl git使用问题: https://github.com/brickmaker/road-of-fishing/articles/wsl-git.md
+    * windows-wsl git使用问题: https://github.com/brickmaker/road-of-fishing/blob/master/articles/wsl-git.md
 
 * NICHES
     * C++11 is formal named C++0x: https://stackoverflow.com/questions/9538701/what-is-the-difference-between-c0x-and-c11
