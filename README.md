@@ -13,10 +13,11 @@ Collect small tips learned every day as a programmer.
 
 * WSL
     * WSL python3 配置： https://github.com/brickmaker/road-of-fishing/blob/master/articles/wsl-python.md
+    * windows-wsl git使用问题: https://github.com/brickmaker/road-of-fishing/blob/master/articles/wsl-git.md
 
 * tools
-    * WSL
-        * windows-wsl git使用问题: https://github.com/brickmaker/road-of-fishing/blob/master/articles/wsl-git.md
+    * git
+        * git proxy setting: https://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server
     * 软件源
         * ubuntu软件源：https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/
         * pypi源：https://mirror.tuna.tsinghua.edu.cn/help/pypi/
