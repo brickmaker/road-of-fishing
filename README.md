@@ -5,6 +5,9 @@ Collect small tips learned every day as a programmer.
     * jupyter notebook add venv kernel: https://janakiev.com/til/jupyter-virtual-envs/
 * HTML&CSS
     * css disable mouse event on DOM element: https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
+
+* Observable
+    * Observable - JavaScript相互转换：https://github.com/brickmaker/road-of-fishing/blob/master/articles/observable-javascript.md
 * GLSL
     * Loop statement in GLSL not support dynamic value directly: http://learnwebgl.brown37.net/12_shader_language/glsl_control_structures.html#iteration
 
