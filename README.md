@@ -15,6 +15,9 @@ Collect small tips learned every day as a programmer.
     * WSL python3 配置： https://github.com/brickmaker/road-of-fishing/blob/master/articles/wsl-python.md
     * windows-wsl git使用问题: https://github.com/brickmaker/road-of-fishing/blob/master/articles/wsl-git.md
 
+* Ridiculous problems
+   * git clone protocol 'https' not supported: https://stackoverflow.com/a/55985462
+
 * tools
     * git
         * git proxy setting: https://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server
