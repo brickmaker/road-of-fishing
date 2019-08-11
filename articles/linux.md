@@ -1,6 +1,6 @@
 # Linux commands and configs
 
-### <a href='ssh-key' name = 'ssh-key'>#</a> ssh key configs
+### <a href='#ssh-key' name = 'ssh-key'>#</a> ssh key configs
 
 保证远程系统已配置好ssh-server之类的东西
 
@@ -31,7 +31,7 @@ ssh -i path/to/ssh/key -P XXXX username@hostname
 这里的`path/to/ssh/key`就是生成的密钥对里的`id_rsa`
 
 
-### <a href='scp-upload' name = 'scp-upload'>#</a> scp upload file
+### <a href='#scp-upload' name = 'scp-upload'>#</a> scp upload file
 
 ```bash
 scp -i path/to/ssh/key -P XXXX localfile username@hostname:path/to/remote/file
