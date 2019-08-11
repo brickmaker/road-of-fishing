@@ -38,3 +38,19 @@ scp -i path/to/ssh/key -P XXXX localfile username@hostname:path/to/remote/file
 ```
 
 `path/to/remote/file`用`~`就可以传到用户根目录下
+
+### <a href='#zip-upzip' name = 'zip-upzip'>#</a> zip and unzip file
+
+for `zip` file:
+
+```bash
+zip a.zip file
+unzip a.zip
+```
+
+for `.tar.gz` file:
+
+```bash
+tar cvfz a.tar.gz file # zip
+tar xvfz a.tar.gz # unzip
+```

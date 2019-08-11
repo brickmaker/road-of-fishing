@@ -20,6 +20,7 @@ Collect small tips learned every day as a programmer.
 * Linux
     * ssh key config: https://github.com/brickmaker/road-of-fishing/blob/master/articles/linux.md#ssh-key
     * scp upload file: https://github.com/brickmaker/road-of-fishing/blob/master/articles/linux.md#scp-upload
+    * zip and unzip file: https://github.com/brickmaker/road-of-fishing/blob/master/articles/linux.md#zip-unzip
 
 * Ridiculous problems
    * git clone protocol 'https' not supported: https://stackoverflow.com/a/55985462
