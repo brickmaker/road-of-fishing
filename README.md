@@ -2,7 +2,9 @@
 Collect small tips learned every day as a programmer.
 
 * PYTHON
-    * jupyter notebook add venv kernel: https://janakiev.com/til/jupyter-virtual-envs/
+    * jupyter notebook
+        * jupyter notebook add venv kernel: https://janakiev.com/til/jupyter-virtual-envs/
+        * matplotlib use svg draw chart: https://stackoverflow.com/a/36622238
 * HTML&CSS
     * css disable mouse event on DOM element: https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
 
@@ -18,6 +20,9 @@ Collect small tips learned every day as a programmer.
 * Linux
     * ssh key config: https://github.com/brickmaker/road-of-fishing/blob/master/articles/linux.md#ssh-key
     * scp upload file: https://github.com/brickmaker/road-of-fishing/blob/master/articles/linux.md#scp-upload
+
+* Ridiculous problems
+   * git clone protocol 'https' not supported: https://stackoverflow.com/a/55985462
 
 * tools
     * git
