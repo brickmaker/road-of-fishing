@@ -2,6 +2,7 @@
 Collect small tips learned every day as a programmer.
 
 * PYTHON
+    * `for-else` clause: https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
     * jupyter notebook
         * jupyter notebook add venv kernel: https://janakiev.com/til/jupyter-virtual-envs/
         * matplotlib use svg draw chart: https://stackoverflow.com/a/36622238
