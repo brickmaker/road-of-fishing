@@ -6,7 +6,7 @@ Collect small tips learned every day as a programmer.
     * jupyter notebook
         * jupyter notebook add venv kernel: https://janakiev.com/til/jupyter-virtual-envs/
         * matplotlib use svg draw chart: https://stackoverflow.com/a/36622238
-        * import things from other notebooks: https://github.com/brickmaker/road-of-fishing/blob/master/articles/import_notebook.md#import-another
+        * import things from other notebooks: https://github.com/brickmaker/road-of-fishing/blob/master/articles/jupyter-notebook.md#import-another
 * HTML&CSS
     * css disable mouse event on DOM element: https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
 
