@@ -10,8 +10,12 @@ Collect small tips learned every day as a programmer.
         * jupyter notebook add venv kernel: https://janakiev.com/til/jupyter-virtual-envs/
         * matplotlib use svg draw chart: https://stackoverflow.com/a/36622238
         * import things from other notebooks: https://github.com/brickmaker/road-of-fishing/blob/master/articles/jupyter-notebook.md#import-another
+
 * HTML&CSS
     * css disable mouse event on DOM element: https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
+
+* WebGL
+    * click object detection: https://github.com/brickmaker/road-of-fishing/blob/master/articles/webgl-click-detection.md
 
 * Observable
     * Observable - JavaScript相互转换：https://github.com/brickmaker/road-of-fishing/blob/master/articles/observable-javascript.md
