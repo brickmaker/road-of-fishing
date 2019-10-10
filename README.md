@@ -42,6 +42,7 @@ Collect small tips learned every day as a programmer.
         * ubuntu软件源：https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/
         * pypi源：https://mirror.tuna.tsinghua.edu.cn/help/pypi/
         * npm源：https://github.com/8788/blog/issues/7
+        * homebrew源：https://mirror.tuna.tsinghua.edu.cn/help/homebrew/
 
 
 * NICHES
