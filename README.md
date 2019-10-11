@@ -38,6 +38,8 @@ Collect small tips learned every day as a programmer.
 * tools
     * git
         * git proxy setting: https://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server
+    * homebrew
+        * homebrew cannot load such file...: https://stackoverflow.com/questions/54848319/homebrew-broken-cannot-load-such-file-vendor-bundle-bundler-setup-loaderr/54978161#54978161
     * 软件源
         * ubuntu软件源：https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/
         * pypi源：https://mirror.tuna.tsinghua.edu.cn/help/pypi/
