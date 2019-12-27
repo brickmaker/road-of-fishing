@@ -32,6 +32,7 @@ Collect small tips learned every day as a programmer.
     * ssh key config: https://github.com/brickmaker/road-of-fishing/blob/master/articles/linux.md#ssh-key
     * scp upload file: https://github.com/brickmaker/road-of-fishing/blob/master/articles/linux.md#scp-upload
     * zip and unzip file: https://github.com/brickmaker/road-of-fishing/blob/master/articles/linux.md#zip-unzip
+    * run in background: https://unix.stackexchange.com/a/148698
 
 * VSCode
     * open without previous project: https://stackoverflow.com/a/36797180
