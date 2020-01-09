@@ -36,6 +36,7 @@ Collect small tips learned every day as a programmer.
 
 * VSCode
     * open without previous project: https://stackoverflow.com/a/36797180
+    * python virtualenv powershell terminal 无法运行active script: https://stackoverflow.com/a/18713789
 * Vim
     * open and close folds: https://vim.fandom.com/wiki/Folding
 
