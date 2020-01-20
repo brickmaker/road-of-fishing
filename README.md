@@ -34,6 +34,9 @@ Collect small tips learned every day as a programmer.
     * zip and unzip file: https://github.com/brickmaker/road-of-fishing/blob/master/articles/linux.md#zip-unzip
     * run in background: https://unix.stackexchange.com/a/148698
 
+* MacOS
+    * disable internal keyboard when using other keyboard: Use Karabiner-Elements. Preferences > Devices > Advanced > Disable the build-in keyboard while...
+
 * VSCode
     * open without previous project: https://stackoverflow.com/a/36797180
     * python virtualenv powershell terminal 无法运行active script: https://stackoverflow.com/a/18713789
