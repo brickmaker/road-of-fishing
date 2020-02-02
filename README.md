@@ -57,6 +57,9 @@ Collect small tips learned every day as a programmer.
         * npm源：https://github.com/8788/blog/issues/7
         * homebrew源：https://mirror.tuna.tsinghua.edu.cn/help/homebrew/
 
+* OS Configs
+    * VPN WiFi无法连接：https://github.com/brickmaker/road-of-fishing/blob/master/articles/vpn-wifi.md
+
 
 * NICHES
     * C++11 is formal named C++0x: https://stackoverflow.com/questions/9538701/what-is-the-difference-between-c0x-and-c11
