@@ -36,6 +36,7 @@ Collect small tips learned every day as a programmer.
 
 * MacOS
     * disable internal keyboard when using other keyboard: Use Karabiner-Elements. Preferences > Devices > Advanced > Disable the build-in keyboard while...
+    * space quicklook plugins: https://github.com/sindresorhus/quick-look-plugins
 
 * Windows
     * windows boot `bootsafe64_ev.sys` 签名错误：https://icecoland.com/2018/01/12/bootsafe64ev-sys/
