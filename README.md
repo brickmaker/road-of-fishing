@@ -37,6 +37,9 @@ Collect small tips learned every day as a programmer.
 * MacOS
     * disable internal keyboard when using other keyboard: Use Karabiner-Elements. Preferences > Devices > Advanced > Disable the build-in keyboard while...
 
+* Windows
+    * windows boot `bootsafe64_ev.sys` 签名错误：https://icecoland.com/2018/01/12/bootsafe64ev-sys/
+
 * VSCode
     * open without previous project: https://stackoverflow.com/a/36797180
     * python virtualenv powershell terminal 无法运行active script: https://stackoverflow.com/a/18713789
