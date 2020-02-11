@@ -7,6 +7,7 @@ Collect small tips learned every day as a programmer.
 * PYTHON
     * `for-else` clause: https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
     * sort with indices(useful in OJ): https://stackoverflow.com/a/6422754
+    * string to list of chars: not `s.split()` or `s.split('')`, use `list(s)`
     * bisect for binary search: https://github.com/brickmaker/road-of-fishing/blob/master/articles/python-bisect.md
     * jupyter notebook
         * jupyter notebook add venv kernel: https://janakiev.com/til/jupyter-virtual-envs/
