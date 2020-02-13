@@ -54,6 +54,7 @@ Collect small tips learned every day as a programmer.
 * tools
     * git
         * git proxy setting: https://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server
+        * update update with upstream(origin repo): https://www.neonscience.org/git-setup-remote
     * homebrew
         * homebrew cannot load such file...: https://stackoverflow.com/questions/54848319/homebrew-broken-cannot-load-such-file-vendor-bundle-bundler-setup-loaderr/54978161#54978161
     * 软件源
