@@ -3,6 +3,8 @@ Collect small tips learned every day as a programmer.
 
 * JavaScript
     * get float decimal part of number: https://stackoverflow.com/a/4512317
+    * React
+        * hooks update state depend in previous state: https://reactjs.org/docs/hooks-reference.html#functional-updates (in Note)
 
 * PYTHON
     * `for-else` clause: https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
