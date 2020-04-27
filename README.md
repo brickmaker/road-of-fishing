@@ -50,6 +50,7 @@ Collect small tips learned every day as a programmer.
     * python virtualenv powershell terminal 无法运行active script: https://stackoverflow.com/a/18713789
 * Vim
     * open and close folds: https://vim.fandom.com/wiki/Folding
+    * jump to next blank line: `}` https://vi.stackexchange.com/a/10829
 
 * Ridiculous problems
    * git clone protocol 'https' not supported: https://stackoverflow.com/a/55985462
