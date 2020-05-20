@@ -70,6 +70,9 @@ Collect small tips learned every day as a programmer.
 * OS Configs
     * VPN WiFi无法连接：https://github.com/brickmaker/road-of-fishing/blob/master/articles/vpn-wifi.md
 
+* LaTeX
+    * windows latex vscode 中文：https://zhuanlan.zhihu.com/p/43133114
+
 
 * NICHES
     * C++11 is formal named C++0x: https://stackoverflow.com/questions/9538701/what-is-the-difference-between-c0x-and-c11
