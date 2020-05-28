@@ -1,6 +1,9 @@
 # road-of-fishing
 Collect small tips learned every day as a programmer.
 
+* TypeScript
+    * object literal specify type: https://github.com/brickmaker/road-of-fishing/blob/master/articles/typescript.md#obj-type
+
 * JavaScript
     * get float decimal part of number: https://stackoverflow.com/a/4512317
     * React
