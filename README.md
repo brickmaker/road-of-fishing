@@ -6,6 +6,7 @@ Collect small tips learned every day as a programmer.
 
 * JavaScript
     * get float decimal part of number: https://stackoverflow.com/a/4512317
+    * Monkeypatching: https://www.audero.it/blog/2016/12/05/monkey-patching-javascript/
     * React
         * hooks update state depend in previous state: https://reactjs.org/docs/hooks-reference.html#functional-updates (in Note)
 
