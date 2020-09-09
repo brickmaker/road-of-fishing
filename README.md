@@ -24,6 +24,7 @@ Collect small tips learned every day as a programmer.
 * HTML&CSS
     * css disable mouse event on DOM element: https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
     * change webpage to gray: `filter: gray`. https://zhuanlan.zhihu.com/p/146884498
+    * insert DOM element as first child: https://stackoverflow.com/a/43838105
 
 * WebGL
     * click object detection: https://github.com/brickmaker/road-of-fishing/blob/master/articles/webgl-click-detection.md
